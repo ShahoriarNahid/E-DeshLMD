@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">E-DeshLMD</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="parcel">Parcel</string>
+    <string name="eod">EOD</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="lmd">Last Mile Delivery</string>
+    <string name="login">Login</string>
+    <string name="userid">User ID</string>
+    <string name="password">Password</string>
+    <string name="successfulmessage">You have successfully login the system</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="input_your_user_id">user id</string>
+    <string name="e_desh">E-Desh</string>
+    <string name="don_t_have_account">Don\'t Have Account?</string>
+    <string name="text_view_for_cardview">Text view for CardView</string>
+    <string name="text_view_for_card_view_2">text view for card view 2</string>
+    <string name="clientidtextviewid">clientIdtextViewID</string>
+    <string name="titletextviewid">titleTextViewID</string>
+    <string name="clientnametextviewid">clientNameTextViewID</string>
+    <string name="clientphonetextviedwid">clientPhoneTextViedwID</string>
+    <string name="waybilltextviewid">waybillTextViewID</string>
+    <string name="shipments_10">Shipments (10)</string>
+    <string name="collected">Collected</string>
+    <string name="total_cod">Total COD : ##</string>
+    <string name="search_by_wb_or_order">Search by Waybill OR Order</string>
+    <string name="otp_payment_deliver"><font color="#FFF200">  OTP </font> >Payment>Deliver</string>
+    <string name="waybill">Waybill#</string>
+    <string name="order">Order#</string>
+    <string name="client_name">Client Name</string>
+    <string name="short_address">Short Address</string>
+    <string name="payment_deliver"><font color="#FFF200">Payment</font> >Deliver</string>
+    <string name="confirm_payment_received">Confirm Payment Received</string>
+    <string name="deliver">Deliver</string>
+    <string name="consignee">Consignee</string>
+    <string name="other_as_instructed_by_consignee">Other as instructed by Consignee.</string>
+    <string name="Developed_by_e_desh_ltd">Developed by E-desh ltd.</string>
+    <string name="submit">Submit</string>
+    <string name="my_profile">My Profile</string>
+    <string name="fe_list">FE List</string>
+
+</resources>
